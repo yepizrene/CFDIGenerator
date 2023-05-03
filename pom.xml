@@ -6,6 +6,7 @@
 	<version>1.0</version>
 	<packaging>jar</packaging>
 	<name>CFDIGenerator</name>
+	<description>Generator of Digital Fiscal Receipt via Internet (CFDI) according to the current standards of the Tax Administration Service of Mexico.</description>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.8</maven.compiler.source>
